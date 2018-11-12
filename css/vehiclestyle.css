@@ -1,0 +1,56 @@
+input[type="text"] {
+    margin-left: 5px;
+}
+
+input#ta {
+    width: 400px;
+    margin-left: 10%;
+}
+
+/************************************************
+** vehicle registration page
+************************************************/
+.appContainer {
+    width: 100%;
+    padding: 20px;
+}
+.row {
+    width: 100%;
+    padding: 15px;
+}
+.center-contents {
+    text-align: center;
+}
+.appContainer textarea {
+    width: 95%;
+    min-height: 250px;
+    overflow-y: auto;
+    margin: 10px auto;
+    padding-left: 25px;
+}
+.col12 {
+    width: 100%;
+}
+.col6 {
+    width: 50%;
+    float: left;
+}
+.field-container {
+    width: 80%;
+    height: auto;
+    float: left;
+    margin: 5px auto; 
+}
+.field-container label {
+    width: 30%;
+    float: left;
+}
+.field-container input[type="text"]{
+    width: 50%;
+    float: left;
+}
+.row input[type="button"] {
+    margin: 5px auto;
+    padding: 5px;
+    cursor: pointer;
+}
